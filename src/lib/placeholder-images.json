@@ -1,0 +1,179 @@
+{
+  "courses": [
+    {
+      "title": "Quantum Physics Explained",
+      "description": "Dive into the strange and wonderful world of quantum mechanics.",
+      "src": "https://picsum.photos/seed/1/600/400",
+      "alt": "Abstract representation of quantum physics",
+      "hint": "galaxy abstract"
+    },
+    {
+      "title": "Electronics Fundamentals",
+      "description": "Learn the building blocks of modern electronics, from diodes to RFID.",
+      "src": "https://picsum.photos/seed/25/600/400",
+      "alt": "A close-up of a circuit board",
+      "hint": "circuit board"
+    },
+    {
+      "title": "AI & Machine Learning",
+      "description": "Learn the fundamentals of artificial intelligence and machine learning.",
+      "src": "https://picsum.photos/seed/2/600/400",
+      "alt": "Neural network visualization",
+      "hint": "network circuit"
+    },
+    {
+      "title": "History of Ancient Rome",
+      "description": "Explore the rise and fall of the great Roman Empire.",
+      "src": "https://picsum.photos/seed/3/600/400",
+      "alt": "The Colosseum in Rome",
+      "hint": "roman architecture"
+    },
+    {
+      "title": "Advanced Rocket Science",
+      "description": "Master the principles of rocket propulsion and orbital mechanics.",
+      "src": "https://picsum.photos/seed/4/600/400",
+      "alt": "Rocket launching into space",
+      "hint": "rocket launch"
+    },
+    {
+      "title": "The Secrets of the Cosmos",
+      "description": "A journey through black holes, dark matter, and distant galaxies.",
+      "src": "https://picsum.photos/seed/5/600/400",
+      "alt": "A swirling nebula in deep space",
+      "hint": "nebula space"
+    },
+    {
+      "title": "Blockchain & Cryptocurrency",
+      "description": "Understand the technology behind Bitcoin and other digital currencies.",
+      "src": "https://picsum.photos/seed/6/600/400",
+      "alt": "Abstract digital blocks representing a blockchain",
+      "hint": "digital abstract"
+    },
+    {
+      "title": "Introduction to Neuroscience",
+      "description": "Discover how the brain works, from neurons to consciousness.",
+      "src": "https://picsum.photos/seed/7/600/400",
+      "alt": "Glowing neurons in a brain scan",
+      "hint": "brain neurons"
+    },
+    {
+      "title": "Virtual Reality Development",
+      "description": "Build immersive worlds and experiences with modern VR tools.",
+      "src": "https://picsum.photos/seed/8/600/400",
+      "alt": "Person wearing a VR headset",
+      "hint": "vr headset"
+    },
+    {
+      "title": "The Art of Storytelling",
+      "description": "Learn to craft compelling narratives that captivate your audience.",
+      "src": "https://picsum.photos/seed/9/600/400",
+      "alt": "An open book with glowing pages",
+      "hint": "book story"
+    },
+    {
+      "title": "Sustainable Energy Futures",
+      "description": "Explore the science and technology of renewable energy.",
+      "src": "https://picsum.photos/seed/10/600/400",
+      "alt": "Wind turbines against a sunset",
+      "hint": "wind turbines"
+    },
+    {
+      "title": "Philosophy of Mind",
+      "description": "Ponder the nature of consciousness, thought, and the self.",
+      "src": "https://picsum.photos/seed/11/600/400",
+      "alt": "Silhouette of a head with gears inside",
+      "hint": "mind thought"
+    },
+    {
+      "title": "Cybersecurity Essentials",
+      "description": "Protect digital systems from threats and vulnerabilities.",
+      "src": "https://picsum.photos/seed/12/600/400",
+      "alt": "A digital lock on a computer screen",
+      "hint": "cyber security"
+    },
+    {
+      "title": "Genetic Engineering",
+      "description": "Explore the future of gene editing and its ethical implications.",
+      "src": "https://picsum.photos/seed/13/600/400",
+      "alt": "A DNA double helix structure",
+      "hint": "dna science"
+    },
+    {
+      "title": "The World of Exoplanets",
+      "description": "Discover planets beyond our solar system and the search for life.",
+      "src": "https://picsum.photos/seed/14/600/400",
+      "alt": "An artist's rendering of an exoplanet",
+      "hint": "exoplanet space"
+    },
+    {
+      "title": "Classical Music Composition",
+      "description": "Learn the theory and practice of composing classical music.",
+      "src": "https://picsum.photos/seed/15/600/400",
+      "alt": "Sheet music and a conductor's baton",
+      "hint": "music notes"
+    },
+    {
+      "title": "Marine Biology",
+      "description": "Explore the diverse ecosystems hidden beneath the waves.",
+      "src": "https://picsum.photos/seed/16/600/400",
+      "alt": "A vibrant coral reef with fish",
+      "hint": "coral reef"
+    },
+    {
+      "title": "Game Theory & Strategy",
+      "description": "Analyze strategic decisions in competitive and cooperative scenarios.",
+      "src": "https://picsum.photos/seed/17/600/400",
+      "alt": "A chessboard with pieces in mid-game",
+      "hint": "chess game"
+    },
+    {
+      "title": "Architectural Design",
+      "description": "Learn the principles of designing beautiful and functional buildings.",
+      "src": "https://picsum.photos/seed/18/600/400",
+      "alt": "A modern architectural blueprint",
+      "hint": "architecture blueprint"
+    },
+    {
+      "title": "The Psychology of Dreams",
+      "description": "Uncover the meaning and science behind your dreams.",
+      "src": "https://picsum.photos/seed/19/600/400",
+      "alt": "A surreal, dreamlike landscape",
+      "hint": "dream abstract"
+    },
+    {
+      "title": "Ethical Hacking",
+      "description": "Learn to think like a hacker to defend against cyber attacks.",
+      "src": "https://picsum.photos/seed/20/600/400",
+      "alt": "A computer screen with lines of code and a skull icon",
+      "hint": "hacking code"
+    },
+    {
+      "title": "Volcanology",
+      "description": "Study volcanoes and the powerful forces that drive them.",
+      "src": "https://picsum.photos/seed/21/600/400",
+      "alt": "An erupting volcano with lava flow",
+      "hint": "volcano eruption"
+    },
+    {
+      "title": "Creative Writing Workshop",
+      "description": "Hone your skills in fiction, poetry, and creative nonfiction.",
+      "src": "https://picsum.photos/seed/22/600/400",
+      "alt": "A person writing in a notebook with a fountain pen",
+      "hint": "writing notebook"
+    },
+    {
+      "title": "The Physics of Time Travel",
+      "description": "Explore the theoretical possibilities and paradoxes of time travel.",
+      "src": "https://picsum.photos/seed/23/600/400",
+      "alt": "A swirling vortex representing a time portal",
+      "hint": "time travel"
+    },
+    {
+      "title": "Digital Forensics",
+      "description": "Learn how to investigate digital crimes and recover data.",
+      "src": "https://picsum.photos/seed/24/600/400",
+      "alt": "A magnifying glass over a computer chip",
+      "hint": "data investigation"
+    }
+  ]
+}

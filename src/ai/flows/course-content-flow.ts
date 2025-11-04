@@ -54,9 +54,9 @@ const generateCourseContentFlow = ai.defineFlow(
   },
   async input => {
     try {
-      console.log('Generating content with gemini-2.5-flash model...');
+      console.log('Generating content with default model...');
       
-      const { output } = await generateCourseContentPrompt(input, { model: 'googleai/gemini-2.5-flash' });
+      const { output } = await generateCourseContentPrompt(input);
       
       if (!output) {
         throw new Error('AI model returned no output.');
